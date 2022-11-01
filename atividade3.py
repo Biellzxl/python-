@@ -10,5 +10,3 @@ match turno:
 
     case "n":
         print("boa noite :D")
-
-#
